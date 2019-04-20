@@ -28,6 +28,6 @@ Are you having fun using GitHub?
 | ENGG2430A | 2/5 | 18:30 | 20:30 | University Gymnasium |
 
 ## Screenshots
-![Alt text](screenshot.png)
-![Alt text](screenshot2.png)
-![Alt text](screenshot3.png)
+![Alt text](screenshot.PNG)
+![Alt text](screenshot2.PNG)
+![Alt text](screenshot3.PNG)
